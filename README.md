@@ -96,7 +96,9 @@ A satellite-image retrieval and geolocation system that compares a query image a
 ## Contribution Matrix
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GeniusAtoms/GeniusAtoms/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/GeniusAtoms/GeniusAtoms/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
 </div>
 
 ## Connect
